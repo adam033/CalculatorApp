@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id"/>
+    <item name="btnDot" type="id"/>
+    <item name="btnClear" type="id"/>
+    <item name="btnEqual" type="id"/>
+    <item name="btnSubtract" type="id" />
+    <item name="btnZero" type="id" />
+    <item name="btnOne" type="id" />
+    <item name="btnTwo" type="id" />
+    <item name="btnThree" type="id" />
+    <item name="btnFour" type="id" />
+    <item name="btnFive" type="id" />
+    <item name="btnSix" type="id" />
+    <item name="btnSeven" type="id" />
+    <item name="btnEight" type="id" />
+    <item name="btnNine" type="id" />
+    <item name="btnDivide" type="id" />
+    <item name="btnMultiply" type="id" />
+    <item name="btnAdd" type="id" />
+</resources>
